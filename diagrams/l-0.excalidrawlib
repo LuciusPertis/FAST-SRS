@@ -1,0 +1,91 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "type": "text",
+          "version": 91,
+          "versionNonce": 348112754,
+          "isDeleted": false,
+          "id": "7rG_Tg5NCjelDZQGOM3we",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1921.3948671819344,
+          "y": -339.9903375460108,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 281.1798400878906,
+          "height": 125,
+          "seed": 845219976,
+          "groupIds": [],
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1685951554642,
+          "link": null,
+          "locked": false,
+          "fontSize": 20,
+          "fontFamily": 1,
+          "text": "hld modules\n\n- NETWORKING\n- DISTRIBUTED COMPUTE\n- ",
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "hld modules\n\n- NETWORKING\n- DISTRIBUTED COMPUTE\n- ",
+          "lineHeight": 1.25,
+          "baseline": 118
+        }
+      ],
+      "id": "x8weaVJ2eB1GV6MRAQa3T",
+      "created": 1685951711406
+    },
+    {
+      "status": "unpublished",
+      "elements": [
+        {
+          "type": "text",
+          "version": 630,
+          "versionNonce": 531412078,
+          "isDeleted": false,
+          "id": "oBGPN5rxym2F5sLi0rDG1",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1334.384742356848,
+          "y": -533.6167969676974,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 396.23968505859375,
+          "height": 500,
+          "seed": 1315755512,
+          "groupIds": [],
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1685951683279,
+          "link": null,
+          "locked": false,
+          "fontSize": 20,
+          "fontFamily": 1,
+          "text": "high-lvl all-encompasing funtionality\n- move\n    -> SB-unit\n        -> compute (local-loco-pos)\n        -> network (fetch/push)\n    -> compute (path-plan ss)\n        -> network (push)\n    -> compute (local-collab)\n        -> network (intensive)\n- sense\n    ->SB-unit\n        -> network (queue req)\n    -> network (fetch/push)\n        -> compute (remote)\n    -> compute (local)\n- plan\n    -> network (maintain global universe)\n        - ~data\n        - ~queue\n    -> compute (path-planing)",
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "high-lvl all-encompasing funtionality\n- move\n    -> SB-unit\n        -> compute (local-loco-pos)\n        -> network (fetch/push)\n    -> compute (path-plan ss)\n        -> network (push)\n    -> compute (local-collab)\n        -> network (intensive)\n- sense\n    ->SB-unit\n        -> network (queue req)\n    -> network (fetch/push)\n        -> compute (remote)\n    -> compute (local)\n- plan\n    -> network (maintain global universe)\n        - ~data\n        - ~queue\n    -> compute (path-planing)",
+          "lineHeight": 1.25,
+          "baseline": 493
+        }
+      ],
+      "id": "OmB8K4ZPB4z2IvSwNnX3U",
+      "created": 1685951700397
+    }
+  ]
+}
